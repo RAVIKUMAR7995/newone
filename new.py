@@ -1,1 +1,1 @@
-HELLO EVERY ONE
+print("hello sir")
